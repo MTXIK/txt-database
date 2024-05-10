@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-12-18T07:52:47.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="V7etmf6-s-ZNlDf4cwDa" version="22.1.11" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1194" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z_LVCPYHTvIOWAQnxRbK-0" target="z_LVCPYHTvIOWAQnxRbK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-0" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z_LVCPYHTvIOWAQnxRbK-2" target="z_LVCPYHTvIOWAQnxRbK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-2" value="Создание указателя на новый объект worksopList, который вляется копией существующего объекта workshopList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="160" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z_LVCPYHTvIOWAQnxRbK-4" target="z_LVCPYHTvIOWAQnxRbK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-4" value="&lt;div&gt;Добавление нового клиента в конец списка&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="290" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z_LVCPYHTvIOWAQnxRbK-4" target="z_LVCPYHTvIOWAQnxRbK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z_LVCPYHTvIOWAQnxRbK-7" target="z_LVCPYHTvIOWAQnxRbK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-7" value="Добавление указателей на следующий и предыдущие элемент worksopList, создавая линейный двунаправленный список" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="420" width="227.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z_LVCPYHTvIOWAQnxRbK-9" value="Конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="229" y="555" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
